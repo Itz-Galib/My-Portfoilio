@@ -1,7 +1,7 @@
 import Background from "./components/background";
 import Intro from "./components/intro";
 import Navbar from "./components/Navbar";
-import About from "./components/about";
+import About from "./components/About";
 import React, { useState } from "react";
 import Experience from "./components/Experience";
 import Projects from "./components/Projects";
